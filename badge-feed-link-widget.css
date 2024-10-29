@@ -1,0 +1,9 @@
+.widget_badge_feed_link a {
+  display: block;
+  text-align: center;
+}
+
+.widget_badge_feed_link a img {
+  border: 0;
+  max-width: 90%;
+}
